@@ -1,7 +1,7 @@
 # MEAN-Login-Authentication
-1.Mongoose
-2.Passport
-3.Passport-Jwt
+1.Mongoose, 
+2.Passport, 
+3.Passport-Jwt, 
 4.Postman REST Api Testing Tool
 
 Set Your MongoDB database Url in Config/Database.js
